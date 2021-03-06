@@ -1,6 +1,6 @@
 # Beginner neural network
 
-The purpose of this project was to get myself involved in mathematics, since I'm more of a design guy than strictly logical.
+The purpose of this project was to get myself more involved in mathematics, since I'm more of a design guy than strictly logical.
 
 This is a super simplified Neural Network that outputs a gender (label) based on `weight` & `height` as the input (features).
 
